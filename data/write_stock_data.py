@@ -7,10 +7,6 @@ from datetime import datetime
 import requests
 import pandas as pd
 import numpy as np
-import threading
-import time
-import json
-import asyncio
 
 params = {
   'access_key': 'fc86254346a54a4fa6f26c220adbfab8'
