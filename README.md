@@ -1,12 +1,4 @@
 # Predicting the Stock Market
 
-CS363M : Principles of Machine Learning
-
-### Getting Started:
-
-1. First, download the packages required
-```
-    pip install -r requirements.txt
-```
-
-2. 
+Want more information? check out my personal website and the Jupyter Notebook under that! 
+https://www.cs.utexas.edu/~abhinavb/
